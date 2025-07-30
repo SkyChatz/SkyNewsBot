@@ -26,4 +26,4 @@ Channel name (CHANNEL)
 
 ### 3. Run the Bot
 bash
-python news_dual_rss_bot.py
+python news_rss_bot.py
